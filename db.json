@@ -5,7 +5,10 @@
       "weight": 130,
       "id": 2,
       "name": "ivysaur",
-      "abilities": ["overgrow", "chlorophyll"],
+      "abilities": [
+        "overgrow",
+        "chlorophyll"
+      ],
       "moves": [],
       "stats": [
         {
@@ -33,11 +36,13 @@
           "name": "hp"
         }
       ],
-      "types": ["grass", "poison"],
+      "types": [
+        "grass",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png"
       }
     },
     {
@@ -45,7 +50,10 @@
       "weight": 1000,
       "id": 3,
       "name": "venusaur",
-      "abilities": ["overgrow", "chlorophyll"],
+      "abilities": [
+        "overgrow",
+        "chlorophyll"
+      ],
       "moves": [],
       "stats": [
         {
@@ -73,11 +81,13 @@
           "name": "hp"
         }
       ],
-      "types": ["grass", "poison"],
+      "types": [
+        "grass",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/3.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/3.png"
       }
     },
     {
@@ -85,7 +95,10 @@
       "weight": 85,
       "id": 5,
       "name": "charmander",
-      "abilities": ["blaze", "solar-power"],
+      "abilities": [
+        "blaze",
+        "solar-power"
+      ],
       "moves": [
         "mega-punch",
         "scratch",
@@ -124,11 +137,12 @@
           "name": "hp"
         }
       ],
-      "types": ["fire"],
+      "types": [
+        "fire"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png"
       }
     },
     {
@@ -136,7 +150,10 @@
       "weight": 190,
       "id": 6,
       "name": "charmeleon",
-      "abilities": ["blaze", "solar-power"],
+      "abilities": [
+        "blaze",
+        "solar-power"
+      ],
       "moves": [],
       "stats": [
         {
@@ -164,11 +181,12 @@
           "name": "hp"
         }
       ],
-      "types": ["fire"],
+      "types": [
+        "fire"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/5.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/5.png"
       }
     },
     {
@@ -176,7 +194,10 @@
       "weight": 905,
       "id": 7,
       "name": "charizard",
-      "abilities": ["blaze", "solar-power"],
+      "abilities": [
+        "blaze",
+        "solar-power"
+      ],
       "moves": [
         "mega-punch",
         "scratch",
@@ -215,11 +236,13 @@
           "name": "hp"
         }
       ],
-      "types": ["fire", "flying"],
+      "types": [
+        "fire",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png"
       }
     },
     {
@@ -227,7 +250,10 @@
       "weight": 90,
       "id": 10,
       "name": "squirtle",
-      "abilities": ["torrent", "rain-dish"],
+      "abilities": [
+        "torrent",
+        "rain-dish"
+      ],
       "moves": [
         "mega-punch",
         "mega-kick",
@@ -266,11 +292,12 @@
           "name": "speed"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png"
       }
     },
     {
@@ -278,7 +305,10 @@
       "weight": 225,
       "id": 11,
       "name": "wartortle",
-      "abilities": ["torrent", "rain-dish"],
+      "abilities": [
+        "torrent",
+        "rain-dish"
+      ],
       "moves": [],
       "stats": [
         {
@@ -306,11 +336,12 @@
           "name": "speed"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/8.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/8.png"
       }
     },
     {
@@ -318,7 +349,10 @@
       "weight": 855,
       "id": 12,
       "name": "blastoise",
-      "abilities": ["torrent", "rain-dish"],
+      "abilities": [
+        "torrent",
+        "rain-dish"
+      ],
       "moves": [],
       "stats": [
         {
@@ -346,11 +380,12 @@
           "name": "speed"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png"
       }
     },
     {
@@ -358,7 +393,10 @@
       "weight": 29,
       "id": 14,
       "name": "caterpie",
-      "abilities": ["shield-dust", "run-away"],
+      "abilities": [
+        "shield-dust",
+        "run-away"
+      ],
       "moves": [],
       "stats": [
         {
@@ -386,11 +424,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["bug"],
+      "types": [
+        "bug"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10.png"
       }
     },
     {
@@ -398,7 +437,9 @@
       "weight": 99,
       "id": 15,
       "name": "metapod",
-      "abilities": ["shed-skin"],
+      "abilities": [
+        "shed-skin"
+      ],
       "moves": [],
       "stats": [
         {
@@ -426,11 +467,12 @@
           "name": "attack"
         }
       ],
-      "types": ["bug"],
+      "types": [
+        "bug"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/11.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/11.png"
       }
     },
     {
@@ -438,7 +480,10 @@
       "weight": 320,
       "id": 16,
       "name": "butterfree",
-      "abilities": ["compound-eyes", "tinted-lens"],
+      "abilities": [
+        "compound-eyes",
+        "tinted-lens"
+      ],
       "moves": [],
       "stats": [
         {
@@ -466,11 +511,13 @@
           "name": "attack"
         }
       ],
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/12.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/12.png"
       }
     },
     {
@@ -478,7 +525,10 @@
       "weight": 32,
       "id": 17,
       "name": "weedle",
-      "abilities": ["shield-dust", "run-away"],
+      "abilities": [
+        "shield-dust",
+        "run-away"
+      ],
       "moves": [],
       "stats": [
         {
@@ -506,11 +556,13 @@
           "name": "special-attack"
         }
       ],
-      "types": ["bug", "poison"],
+      "types": [
+        "bug",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/13.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/13.png"
       }
     },
     {
@@ -518,7 +570,9 @@
       "weight": 100,
       "id": 18,
       "name": "kakuna",
-      "abilities": ["shed-skin"],
+      "abilities": [
+        "shed-skin"
+      ],
       "moves": [],
       "stats": [
         {
@@ -546,11 +600,13 @@
           "name": "attack"
         }
       ],
-      "types": ["bug", "poison"],
+      "types": [
+        "bug",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/14.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/14.png"
       }
     },
     {
@@ -558,7 +614,10 @@
       "weight": 295,
       "id": 19,
       "name": "beedrill",
-      "abilities": ["swarm", "sniper"],
+      "abilities": [
+        "swarm",
+        "sniper"
+      ],
       "moves": [],
       "stats": [
         {
@@ -586,11 +645,13 @@
           "name": "defense"
         }
       ],
-      "types": ["bug", "poison"],
+      "types": [
+        "bug",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/15.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/15.png"
       }
     },
     {
@@ -598,7 +659,11 @@
       "weight": 18,
       "id": 21,
       "name": "pidgey",
-      "abilities": ["keen-eye", "tangled-feet", "big-pecks"],
+      "abilities": [
+        "keen-eye",
+        "tangled-feet",
+        "big-pecks"
+      ],
       "moves": [],
       "stats": [
         {
@@ -626,11 +691,13 @@
           "name": "special-attack"
         }
       ],
-      "types": ["normal", "flying"],
+      "types": [
+        "normal",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/16.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/16.png"
       }
     },
     {
@@ -638,7 +705,11 @@
       "weight": 300,
       "id": 22,
       "name": "pidgeotto",
-      "abilities": ["keen-eye", "tangled-feet", "big-pecks"],
+      "abilities": [
+        "keen-eye",
+        "tangled-feet",
+        "big-pecks"
+      ],
       "moves": [],
       "stats": [
         {
@@ -666,11 +737,13 @@
           "name": "special-attack"
         }
       ],
-      "types": ["normal", "flying"],
+      "types": [
+        "normal",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/17.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/17.png"
       }
     },
     {
@@ -678,7 +751,11 @@
       "weight": 395,
       "id": 23,
       "name": "pidgeot",
-      "abilities": ["keen-eye", "tangled-feet", "big-pecks"],
+      "abilities": [
+        "keen-eye",
+        "tangled-feet",
+        "big-pecks"
+      ],
       "moves": [],
       "stats": [
         {
@@ -706,11 +783,13 @@
           "name": "special-attack"
         }
       ],
-      "types": ["normal", "flying"],
+      "types": [
+        "normal",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/18.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/18.png"
       }
     },
     {
@@ -718,7 +797,11 @@
       "weight": 35,
       "id": 25,
       "name": "rattata",
-      "abilities": ["run-away", "guts", "hustle"],
+      "abilities": [
+        "run-away",
+        "guts",
+        "hustle"
+      ],
       "moves": [],
       "stats": [
         {
@@ -746,11 +829,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/19.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/19.png"
       }
     },
     {
@@ -758,7 +842,11 @@
       "weight": 185,
       "id": 26,
       "name": "raticate",
-      "abilities": ["run-away", "guts", "hustle"],
+      "abilities": [
+        "run-away",
+        "guts",
+        "hustle"
+      ],
       "moves": [
         "bubble-beam",
         "rage",
@@ -794,11 +882,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/20.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/20.png"
       }
     },
     {
@@ -806,7 +895,10 @@
       "weight": 20,
       "id": 27,
       "name": "spearow",
-      "abilities": ["keen-eye", "sniper"],
+      "abilities": [
+        "keen-eye",
+        "sniper"
+      ],
       "moves": [],
       "stats": [
         {
@@ -834,11 +926,13 @@
           "name": "defense"
         }
       ],
-      "types": ["normal", "flying"],
+      "types": [
+        "normal",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/21.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/21.png"
       }
     },
     {
@@ -846,7 +940,10 @@
       "weight": 380,
       "id": 28,
       "name": "fearow",
-      "abilities": ["keen-eye", "sniper"],
+      "abilities": [
+        "keen-eye",
+        "sniper"
+      ],
       "moves": [],
       "stats": [
         {
@@ -874,11 +971,13 @@
           "name": "special-attack"
         }
       ],
-      "types": ["normal", "flying"],
+      "types": [
+        "normal",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/22.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/22.png"
       }
     },
     {
@@ -886,7 +985,11 @@
       "weight": 69,
       "id": 29,
       "name": "ekans",
-      "abilities": ["intimidate", "shed-skin", "unnerve"],
+      "abilities": [
+        "intimidate",
+        "shed-skin",
+        "unnerve"
+      ],
       "moves": [],
       "stats": [
         {
@@ -914,11 +1017,12 @@
           "name": "hp"
         }
       ],
-      "types": ["poison"],
+      "types": [
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/23.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/23.png"
       }
     },
     {
@@ -926,7 +1030,11 @@
       "weight": 650,
       "id": 30,
       "name": "arbok",
-      "abilities": ["intimidate", "shed-skin", "unnerve"],
+      "abilities": [
+        "intimidate",
+        "shed-skin",
+        "unnerve"
+      ],
       "moves": [
         "wrap",
         "poison-sting",
@@ -964,11 +1072,12 @@
           "name": "hp"
         }
       ],
-      "types": ["poison"],
+      "types": [
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/24.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/24.png"
       }
     },
     {
@@ -976,7 +1085,10 @@
       "weight": 60,
       "id": 32,
       "name": "pikachu",
-      "abilities": ["static", "lightning-rod"],
+      "abilities": [
+        "static",
+        "lightning-rod"
+      ],
       "moves": [],
       "stats": [
         {
@@ -1004,11 +1116,12 @@
           "name": "hp"
         }
       ],
-      "types": ["electric"],
+      "types": [
+        "electric"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/25.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/25.png"
       }
     },
     {
@@ -1016,7 +1129,10 @@
       "weight": 300,
       "id": 39,
       "name": "raichu",
-      "abilities": ["static", "lightning-rod"],
+      "abilities": [
+        "static",
+        "lightning-rod"
+      ],
       "moves": [],
       "stats": [
         {
@@ -1044,11 +1160,12 @@
           "name": "defense"
         }
       ],
-      "types": ["electric"],
+      "types": [
+        "electric"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/26.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/26.png"
       }
     },
     {
@@ -1056,7 +1173,10 @@
       "weight": 120,
       "id": 40,
       "name": "sandshrew",
-      "abilities": ["sand-veil", "sand-rush"],
+      "abilities": [
+        "sand-veil",
+        "sand-rush"
+      ],
       "moves": [
         "scratch",
         "poison-sting",
@@ -1095,11 +1215,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["ground"],
+      "types": [
+        "ground"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/27.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/27.png"
       }
     },
     {
@@ -1107,7 +1228,10 @@
       "weight": 295,
       "id": 41,
       "name": "sandslash",
-      "abilities": ["sand-veil", "sand-rush"],
+      "abilities": [
+        "sand-veil",
+        "sand-rush"
+      ],
       "moves": [],
       "stats": [
         {
@@ -1135,11 +1259,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["ground"],
+      "types": [
+        "ground"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/28.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/28.png"
       }
     },
     {
@@ -1147,7 +1272,11 @@
       "weight": 70,
       "id": 42,
       "name": "nidoran-f",
-      "abilities": ["poison-point", "rivalry", "hustle"],
+      "abilities": [
+        "poison-point",
+        "rivalry",
+        "hustle"
+      ],
       "moves": [
         "scratch",
         "double-kick",
@@ -1183,11 +1312,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["poison"],
+      "types": [
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/29.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/29.png"
       }
     },
     {
@@ -1195,7 +1325,11 @@
       "weight": 200,
       "id": 43,
       "name": "nidorina",
-      "abilities": ["poison-point", "rivalry", "hustle"],
+      "abilities": [
+        "poison-point",
+        "rivalry",
+        "hustle"
+      ],
       "moves": [],
       "stats": [
         {
@@ -1223,11 +1357,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["poison"],
+      "types": [
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/30.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/30.png"
       }
     },
     {
@@ -1235,7 +1370,11 @@
       "weight": 600,
       "id": 44,
       "name": "nidoqueen",
-      "abilities": ["poison-point", "rivalry", "sheer-force"],
+      "abilities": [
+        "poison-point",
+        "rivalry",
+        "sheer-force"
+      ],
       "moves": [
         "mega-punch",
         "pay-day",
@@ -1274,11 +1413,13 @@
           "name": "special-attack"
         }
       ],
-      "types": ["poison", "ground"],
+      "types": [
+        "poison",
+        "ground"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/31.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/31.png"
       }
     },
     {
@@ -1286,7 +1427,11 @@
       "weight": 90,
       "id": 45,
       "name": "nidoran-m",
-      "abilities": ["poison-point", "rivalry", "hustle"],
+      "abilities": [
+        "poison-point",
+        "rivalry",
+        "hustle"
+      ],
       "moves": [],
       "stats": [
         {
@@ -1314,11 +1459,12 @@
           "name": "defense"
         }
       ],
-      "types": ["poison"],
+      "types": [
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/32.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/32.png"
       }
     },
     {
@@ -1326,7 +1472,11 @@
       "weight": 195,
       "id": 46,
       "name": "nidorino",
-      "abilities": ["poison-point", "rivalry", "hustle"],
+      "abilities": [
+        "poison-point",
+        "rivalry",
+        "hustle"
+      ],
       "moves": [],
       "stats": [
         {
@@ -1354,11 +1504,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["poison"],
+      "types": [
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/33.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/33.png"
       }
     },
     {
@@ -1366,7 +1517,11 @@
       "weight": 620,
       "id": 47,
       "name": "nidoking",
-      "abilities": ["poison-point", "rivalry", "sheer-force"],
+      "abilities": [
+        "poison-point",
+        "rivalry",
+        "sheer-force"
+      ],
       "moves": [
         "mega-punch",
         "pay-day",
@@ -1405,11 +1560,13 @@
           "name": "special-defense"
         }
       ],
-      "types": ["poison", "ground"],
+      "types": [
+        "poison",
+        "ground"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/34.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/34.png"
       }
     },
     {
@@ -1417,7 +1574,11 @@
       "weight": 75,
       "id": 49,
       "name": "clefairy",
-      "abilities": ["cute-charm", "magic-guard", "friend-guard"],
+      "abilities": [
+        "cute-charm",
+        "magic-guard",
+        "friend-guard"
+      ],
       "moves": [
         "pound",
         "double-slap",
@@ -1456,11 +1617,12 @@
           "name": "speed"
         }
       ],
-      "types": ["fairy"],
+      "types": [
+        "fairy"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/35.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/35.png"
       }
     },
     {
@@ -1468,7 +1630,11 @@
       "weight": 400,
       "id": 50,
       "name": "clefable",
-      "abilities": ["cute-charm", "magic-guard", "unaware"],
+      "abilities": [
+        "cute-charm",
+        "magic-guard",
+        "unaware"
+      ],
       "moves": [
         "double-slap",
         "mega-punch",
@@ -1507,11 +1673,12 @@
           "name": "speed"
         }
       ],
-      "types": ["fairy"],
+      "types": [
+        "fairy"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/36.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/36.png"
       }
     },
     {
@@ -1519,7 +1686,10 @@
       "weight": 99,
       "id": 51,
       "name": "vulpix",
-      "abilities": ["flash-fire", "drought"],
+      "abilities": [
+        "flash-fire",
+        "drought"
+      ],
       "moves": [],
       "stats": [
         {
@@ -1547,11 +1717,12 @@
           "name": "hp"
         }
       ],
-      "types": ["fire"],
+      "types": [
+        "fire"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/37.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/37.png"
       }
     },
     {
@@ -1559,7 +1730,10 @@
       "weight": 199,
       "id": 52,
       "name": "ninetales",
-      "abilities": ["flash-fire", "drought"],
+      "abilities": [
+        "flash-fire",
+        "drought"
+      ],
       "moves": [],
       "stats": [
         {
@@ -1587,11 +1761,12 @@
           "name": "hp"
         }
       ],
-      "types": ["fire"],
+      "types": [
+        "fire"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/38.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/38.png"
       }
     },
     {
@@ -1599,7 +1774,11 @@
       "weight": 55,
       "id": 54,
       "name": "jigglypuff",
-      "abilities": ["cute-charm", "competitive", "friend-guard"],
+      "abilities": [
+        "cute-charm",
+        "competitive",
+        "friend-guard"
+      ],
       "moves": [
         "pound",
         "double-slap",
@@ -1638,11 +1817,13 @@
           "name": "defense"
         }
       ],
-      "types": ["normal", "fairy"],
+      "types": [
+        "normal",
+        "fairy"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/39.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/39.png"
       }
     },
     {
@@ -1650,7 +1831,11 @@
       "weight": 120,
       "id": 55,
       "name": "wigglytuff",
-      "abilities": ["cute-charm", "competitive", "frisk"],
+      "abilities": [
+        "cute-charm",
+        "competitive",
+        "frisk"
+      ],
       "moves": [
         "double-slap",
         "mega-punch",
@@ -1689,11 +1874,13 @@
           "name": "defense"
         }
       ],
-      "types": ["normal", "fairy"],
+      "types": [
+        "normal",
+        "fairy"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/40.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/40.png"
       }
     },
     {
@@ -1701,7 +1888,10 @@
       "weight": 75,
       "id": 56,
       "name": "zubat",
-      "abilities": ["inner-focus", "infiltrator"],
+      "abilities": [
+        "inner-focus",
+        "infiltrator"
+      ],
       "moves": [],
       "stats": [
         {
@@ -1729,11 +1919,13 @@
           "name": "special-attack"
         }
       ],
-      "types": ["poison", "flying"],
+      "types": [
+        "poison",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/41.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/41.png"
       }
     },
     {
@@ -1741,7 +1933,10 @@
       "weight": 550,
       "id": 57,
       "name": "golbat",
-      "abilities": ["inner-focus", "infiltrator"],
+      "abilities": [
+        "inner-focus",
+        "infiltrator"
+      ],
       "moves": [
         "razor-wind",
         "wing-attack",
@@ -1780,11 +1975,13 @@
           "name": "special-attack"
         }
       ],
-      "types": ["poison", "flying"],
+      "types": [
+        "poison",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/42.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/42.png"
       }
     },
     {
@@ -1792,7 +1989,10 @@
       "weight": 54,
       "id": 59,
       "name": "oddish",
-      "abilities": ["chlorophyll", "run-away"],
+      "abilities": [
+        "chlorophyll",
+        "run-away"
+      ],
       "moves": [],
       "stats": [
         {
@@ -1820,11 +2020,13 @@
           "name": "speed"
         }
       ],
-      "types": ["grass", "poison"],
+      "types": [
+        "grass",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/43.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/43.png"
       }
     },
     {
@@ -1832,7 +2034,10 @@
       "weight": 86,
       "id": 60,
       "name": "gloom",
-      "abilities": ["chlorophyll", "stench"],
+      "abilities": [
+        "chlorophyll",
+        "stench"
+      ],
       "moves": [],
       "stats": [
         {
@@ -1860,11 +2065,13 @@
           "name": "speed"
         }
       ],
-      "types": ["grass", "poison"],
+      "types": [
+        "grass",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/44.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/44.png"
       }
     },
     {
@@ -1872,7 +2079,10 @@
       "weight": 186,
       "id": 61,
       "name": "vileplume",
-      "abilities": ["chlorophyll", "effect-spore"],
+      "abilities": [
+        "chlorophyll",
+        "effect-spore"
+      ],
       "moves": [],
       "stats": [
         {
@@ -1900,11 +2110,13 @@
           "name": "speed"
         }
       ],
-      "types": ["grass", "poison"],
+      "types": [
+        "grass",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/45.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/45.png"
       }
     },
     {
@@ -1912,7 +2124,11 @@
       "weight": 54,
       "id": 63,
       "name": "paras",
-      "abilities": ["effect-spore", "dry-skin", "damp"],
+      "abilities": [
+        "effect-spore",
+        "dry-skin",
+        "damp"
+      ],
       "moves": [],
       "stats": [
         {
@@ -1940,11 +2156,13 @@
           "name": "speed"
         }
       ],
-      "types": ["bug", "grass"],
+      "types": [
+        "bug",
+        "grass"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/46.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/46.png"
       }
     },
     {
@@ -1952,7 +2170,11 @@
       "weight": 295,
       "id": 64,
       "name": "parasect",
-      "abilities": ["effect-spore", "dry-skin", "damp"],
+      "abilities": [
+        "effect-spore",
+        "dry-skin",
+        "damp"
+      ],
       "moves": [],
       "stats": [
         {
@@ -1980,11 +2202,13 @@
           "name": "speed"
         }
       ],
-      "types": ["bug", "grass"],
+      "types": [
+        "bug",
+        "grass"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/47.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/47.png"
       }
     },
     {
@@ -1992,7 +2216,11 @@
       "weight": 300,
       "id": 65,
       "name": "venonat",
-      "abilities": ["compound-eyes", "tinted-lens", "run-away"],
+      "abilities": [
+        "compound-eyes",
+        "tinted-lens",
+        "run-away"
+      ],
       "moves": [],
       "stats": [
         {
@@ -2020,11 +2248,13 @@
           "name": "special-attack"
         }
       ],
-      "types": ["bug", "poison"],
+      "types": [
+        "bug",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/48.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/48.png"
       }
     },
     {
@@ -2032,7 +2262,11 @@
       "weight": 125,
       "id": 66,
       "name": "venomoth",
-      "abilities": ["shield-dust", "tinted-lens", "wonder-skin"],
+      "abilities": [
+        "shield-dust",
+        "tinted-lens",
+        "wonder-skin"
+      ],
       "moves": [],
       "stats": [
         {
@@ -2060,11 +2294,13 @@
           "name": "defense"
         }
       ],
-      "types": ["bug", "poison"],
+      "types": [
+        "bug",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/49.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/49.png"
       }
     },
     {
@@ -2072,7 +2308,11 @@
       "weight": 8,
       "id": 67,
       "name": "diglett",
-      "abilities": ["sand-veil", "arena-trap", "sand-force"],
+      "abilities": [
+        "sand-veil",
+        "arena-trap",
+        "sand-force"
+      ],
       "moves": [],
       "stats": [
         {
@@ -2100,11 +2340,12 @@
           "name": "hp"
         }
       ],
-      "types": ["ground"],
+      "types": [
+        "ground"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/50.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/50.png"
       }
     },
     {
@@ -2112,7 +2353,11 @@
       "weight": 333,
       "id": 68,
       "name": "dugtrio",
-      "abilities": ["sand-veil", "arena-trap", "sand-force"],
+      "abilities": [
+        "sand-veil",
+        "arena-trap",
+        "sand-force"
+      ],
       "moves": [],
       "stats": [
         {
@@ -2140,11 +2385,12 @@
           "name": "hp"
         }
       ],
-      "types": ["ground"],
+      "types": [
+        "ground"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/51.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/51.png"
       }
     },
     {
@@ -2152,7 +2398,11 @@
       "weight": 42,
       "id": 69,
       "name": "meowth",
-      "abilities": ["pickup", "technician", "unnerve"],
+      "abilities": [
+        "pickup",
+        "technician",
+        "unnerve"
+      ],
       "moves": [
         "pay-day",
         "scratch",
@@ -2189,11 +2439,12 @@
           "name": "defense"
         }
       ],
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/52.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/52.png"
       }
     },
     {
@@ -2201,7 +2452,11 @@
       "weight": 320,
       "id": 70,
       "name": "persian",
-      "abilities": ["limber", "technician", "unnerve"],
+      "abilities": [
+        "limber",
+        "technician",
+        "unnerve"
+      ],
       "moves": [
         "pay-day",
         "scratch",
@@ -2238,11 +2493,12 @@
           "name": "defense"
         }
       ],
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/53.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/53.png"
       }
     },
     {
@@ -2250,7 +2506,11 @@
       "weight": 196,
       "id": 71,
       "name": "psyduck",
-      "abilities": ["damp", "cloud-nine", "swift-swim"],
+      "abilities": [
+        "damp",
+        "cloud-nine",
+        "swift-swim"
+      ],
       "moves": [],
       "stats": [
         {
@@ -2278,11 +2538,12 @@
           "name": "defense"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/54.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/54.png"
       }
     },
     {
@@ -2290,7 +2551,11 @@
       "weight": 766,
       "id": 72,
       "name": "golduck",
-      "abilities": ["damp", "cloud-nine", "swift-swim"],
+      "abilities": [
+        "damp",
+        "cloud-nine",
+        "swift-swim"
+      ],
       "moves": [
         "mega-punch",
         "pay-day",
@@ -2329,11 +2594,12 @@
           "name": "defense"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/55.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/55.png"
       }
     },
     {
@@ -2341,7 +2607,11 @@
       "weight": 280,
       "id": 73,
       "name": "mankey",
-      "abilities": ["vital-spirit", "anger-point", "defiant"],
+      "abilities": [
+        "vital-spirit",
+        "anger-point",
+        "defiant"
+      ],
       "moves": [
         "karate-chop",
         "mega-punch",
@@ -2380,11 +2650,12 @@
           "name": "defense"
         }
       ],
-      "types": ["fighting"],
+      "types": [
+        "fighting"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/56.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/56.png"
       }
     },
     {
@@ -2392,7 +2663,11 @@
       "weight": 320,
       "id": 74,
       "name": "primeape",
-      "abilities": ["vital-spirit", "anger-point", "defiant"],
+      "abilities": [
+        "vital-spirit",
+        "anger-point",
+        "defiant"
+      ],
       "moves": [],
       "stats": [
         {
@@ -2420,11 +2695,12 @@
           "name": "defense"
         }
       ],
-      "types": ["fighting"],
+      "types": [
+        "fighting"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/57.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/57.png"
       }
     },
     {
@@ -2432,7 +2708,11 @@
       "weight": 190,
       "id": 75,
       "name": "growlithe",
-      "abilities": ["intimidate", "flash-fire", "justified"],
+      "abilities": [
+        "intimidate",
+        "flash-fire",
+        "justified"
+      ],
       "moves": [],
       "stats": [
         {
@@ -2460,11 +2740,12 @@
           "name": "defense"
         }
       ],
-      "types": ["fire"],
+      "types": [
+        "fire"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/58.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/58.png"
       }
     },
     {
@@ -2472,7 +2753,11 @@
       "weight": 1550,
       "id": 76,
       "name": "arcanine",
-      "abilities": ["intimidate", "flash-fire", "justified"],
+      "abilities": [
+        "intimidate",
+        "flash-fire",
+        "justified"
+      ],
       "moves": [],
       "stats": [
         {
@@ -2500,11 +2785,12 @@
           "name": "defense"
         }
       ],
-      "types": ["fire"],
+      "types": [
+        "fire"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/59.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/59.png"
       }
     },
     {
@@ -2512,7 +2798,11 @@
       "weight": 124,
       "id": 77,
       "name": "poliwag",
-      "abilities": ["water-absorb", "damp", "swift-swim"],
+      "abilities": [
+        "water-absorb",
+        "damp",
+        "swift-swim"
+      ],
       "moves": [],
       "stats": [
         {
@@ -2540,11 +2830,12 @@
           "name": "hp"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/60.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/60.png"
       }
     },
     {
@@ -2552,7 +2843,11 @@
       "weight": 200,
       "id": 78,
       "name": "poliwhirl",
-      "abilities": ["water-absorb", "damp", "swift-swim"],
+      "abilities": [
+        "water-absorb",
+        "damp",
+        "swift-swim"
+      ],
       "moves": [],
       "stats": [
         {
@@ -2580,11 +2875,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/61.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/61.png"
       }
     },
     {
@@ -2592,7 +2888,11 @@
       "weight": 540,
       "id": 79,
       "name": "poliwrath",
-      "abilities": ["water-absorb", "damp", "swift-swim"],
+      "abilities": [
+        "water-absorb",
+        "damp",
+        "swift-swim"
+      ],
       "moves": [
         "double-slap",
         "mega-punch",
@@ -2631,11 +2931,13 @@
           "name": "special-attack"
         }
       ],
-      "types": ["water", "fighting"],
+      "types": [
+        "water",
+        "fighting"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/62.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/62.png"
       }
     },
     {
@@ -2643,7 +2945,11 @@
       "weight": 195,
       "id": 81,
       "name": "abra",
-      "abilities": ["synchronize", "inner-focus", "magic-guard"],
+      "abilities": [
+        "synchronize",
+        "inner-focus",
+        "magic-guard"
+      ],
       "moves": [],
       "stats": [
         {
@@ -2671,11 +2977,12 @@
           "name": "defense"
         }
       ],
-      "types": ["psychic"],
+      "types": [
+        "psychic"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/63.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/63.png"
       }
     },
     {
@@ -2683,7 +2990,11 @@
       "weight": 565,
       "id": 82,
       "name": "kadabra",
-      "abilities": ["synchronize", "inner-focus", "magic-guard"],
+      "abilities": [
+        "synchronize",
+        "inner-focus",
+        "magic-guard"
+      ],
       "moves": [],
       "stats": [
         {
@@ -2711,11 +3022,12 @@
           "name": "defense"
         }
       ],
-      "types": ["psychic"],
+      "types": [
+        "psychic"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/64.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/64.png"
       }
     },
     {
@@ -2723,7 +3035,11 @@
       "weight": 480,
       "id": 83,
       "name": "alakazam",
-      "abilities": ["synchronize", "inner-focus", "magic-guard"],
+      "abilities": [
+        "synchronize",
+        "inner-focus",
+        "magic-guard"
+      ],
       "moves": [],
       "stats": [
         {
@@ -2751,11 +3067,12 @@
           "name": "defense"
         }
       ],
-      "types": ["psychic"],
+      "types": [
+        "psychic"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/65.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/65.png"
       }
     },
     {
@@ -2763,7 +3080,11 @@
       "weight": 195,
       "id": 85,
       "name": "machop",
-      "abilities": ["guts", "no-guard", "steadfast"],
+      "abilities": [
+        "guts",
+        "no-guard",
+        "steadfast"
+      ],
       "moves": [
         "karate-chop",
         "mega-punch",
@@ -2802,11 +3123,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["fighting"],
+      "types": [
+        "fighting"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/66.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/66.png"
       }
     },
     {
@@ -2814,7 +3136,11 @@
       "weight": 705,
       "id": 86,
       "name": "machoke",
-      "abilities": ["guts", "no-guard", "steadfast"],
+      "abilities": [
+        "guts",
+        "no-guard",
+        "steadfast"
+      ],
       "moves": [
         "karate-chop",
         "mega-punch",
@@ -2853,11 +3179,12 @@
           "name": "speed"
         }
       ],
-      "types": ["fighting"],
+      "types": [
+        "fighting"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/67.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/67.png"
       }
     },
     {
@@ -2865,7 +3192,11 @@
       "weight": 1300,
       "id": 87,
       "name": "machamp",
-      "abilities": ["guts", "no-guard", "steadfast"],
+      "abilities": [
+        "guts",
+        "no-guard",
+        "steadfast"
+      ],
       "moves": [
         "karate-chop",
         "mega-punch",
@@ -2904,11 +3235,12 @@
           "name": "speed"
         }
       ],
-      "types": ["fighting"],
+      "types": [
+        "fighting"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/68.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/68.png"
       }
     },
     {
@@ -2916,7 +3248,10 @@
       "weight": 40,
       "id": 88,
       "name": "bellsprout",
-      "abilities": ["chlorophyll", "gluttony"],
+      "abilities": [
+        "chlorophyll",
+        "gluttony"
+      ],
       "moves": [
         "slam",
         "vine-whip",
@@ -2955,11 +3290,13 @@
           "name": "special-defense"
         }
       ],
-      "types": ["grass", "poison"],
+      "types": [
+        "grass",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/69.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/69.png"
       }
     },
     {
@@ -2967,7 +3304,10 @@
       "weight": 64,
       "id": 89,
       "name": "weepinbell",
-      "abilities": ["chlorophyll", "gluttony"],
+      "abilities": [
+        "chlorophyll",
+        "gluttony"
+      ],
       "moves": [],
       "stats": [
         {
@@ -2995,11 +3335,13 @@
           "name": "special-defense"
         }
       ],
-      "types": ["grass", "poison"],
+      "types": [
+        "grass",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/70.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/70.png"
       }
     },
     {
@@ -3007,7 +3349,10 @@
       "weight": 155,
       "id": 90,
       "name": "victreebel",
-      "abilities": ["chlorophyll", "gluttony"],
+      "abilities": [
+        "chlorophyll",
+        "gluttony"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3035,11 +3380,13 @@
           "name": "defense"
         }
       ],
-      "types": ["grass", "poison"],
+      "types": [
+        "grass",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/71.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/71.png"
       }
     },
     {
@@ -3047,7 +3394,11 @@
       "weight": 455,
       "id": 91,
       "name": "tentacool",
-      "abilities": ["clear-body", "liquid-ooze", "rain-dish"],
+      "abilities": [
+        "clear-body",
+        "liquid-ooze",
+        "rain-dish"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3075,11 +3426,13 @@
           "name": "defense"
         }
       ],
-      "types": ["water", "poison"],
+      "types": [
+        "water",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/72.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/72.png"
       }
     },
     {
@@ -3087,7 +3440,11 @@
       "weight": 550,
       "id": 92,
       "name": "tentacruel",
-      "abilities": ["clear-body", "liquid-ooze", "rain-dish"],
+      "abilities": [
+        "clear-body",
+        "liquid-ooze",
+        "rain-dish"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3115,11 +3472,13 @@
           "name": "defense"
         }
       ],
-      "types": ["water", "poison"],
+      "types": [
+        "water",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/73.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/73.png"
       }
     },
     {
@@ -3127,7 +3486,11 @@
       "weight": 200,
       "id": 93,
       "name": "geodude",
-      "abilities": ["rock-head", "sturdy", "sand-veil"],
+      "abilities": [
+        "rock-head",
+        "sturdy",
+        "sand-veil"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3155,11 +3518,13 @@
           "name": "speed"
         }
       ],
-      "types": ["rock", "ground"],
+      "types": [
+        "rock",
+        "ground"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/74.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/74.png"
       }
     },
     {
@@ -3167,7 +3532,11 @@
       "weight": 1050,
       "id": 94,
       "name": "graveler",
-      "abilities": ["rock-head", "sturdy", "sand-veil"],
+      "abilities": [
+        "rock-head",
+        "sturdy",
+        "sand-veil"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3195,11 +3564,13 @@
           "name": "speed"
         }
       ],
-      "types": ["rock", "ground"],
+      "types": [
+        "rock",
+        "ground"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/75.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/75.png"
       }
     },
     {
@@ -3207,7 +3578,11 @@
       "weight": 3000,
       "id": 95,
       "name": "golem",
-      "abilities": ["rock-head", "sturdy", "sand-veil"],
+      "abilities": [
+        "rock-head",
+        "sturdy",
+        "sand-veil"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3235,11 +3610,13 @@
           "name": "speed"
         }
       ],
-      "types": ["rock", "ground"],
+      "types": [
+        "rock",
+        "ground"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/76.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/76.png"
       }
     },
     {
@@ -3247,7 +3624,11 @@
       "weight": 300,
       "id": 96,
       "name": "ponyta",
-      "abilities": ["run-away", "flash-fire", "flame-body"],
+      "abilities": [
+        "run-away",
+        "flash-fire",
+        "flame-body"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3275,11 +3656,12 @@
           "name": "hp"
         }
       ],
-      "types": ["fire"],
+      "types": [
+        "fire"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/77.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/77.png"
       }
     },
     {
@@ -3287,7 +3669,11 @@
       "weight": 950,
       "id": 97,
       "name": "rapidash",
-      "abilities": ["run-away", "flash-fire", "flame-body"],
+      "abilities": [
+        "run-away",
+        "flash-fire",
+        "flame-body"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3315,11 +3701,12 @@
           "name": "hp"
         }
       ],
-      "types": ["fire"],
+      "types": [
+        "fire"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/78.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/78.png"
       }
     },
     {
@@ -3327,7 +3714,11 @@
       "weight": 360,
       "id": 98,
       "name": "slowpoke",
-      "abilities": ["oblivious", "own-tempo", "regenerator"],
+      "abilities": [
+        "oblivious",
+        "own-tempo",
+        "regenerator"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3355,11 +3746,13 @@
           "name": "speed"
         }
       ],
-      "types": ["water", "psychic"],
+      "types": [
+        "water",
+        "psychic"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/79.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/79.png"
       }
     },
     {
@@ -3367,7 +3760,11 @@
       "weight": 785,
       "id": 99,
       "name": "slowbro",
-      "abilities": ["oblivious", "own-tempo", "regenerator"],
+      "abilities": [
+        "oblivious",
+        "own-tempo",
+        "regenerator"
+      ],
       "moves": [
         "mega-punch",
         "pay-day",
@@ -3406,11 +3803,13 @@
           "name": "speed"
         }
       ],
-      "types": ["water", "psychic"],
+      "types": [
+        "water",
+        "psychic"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/80.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/80.png"
       }
     },
     {
@@ -3418,7 +3817,11 @@
       "weight": 60,
       "id": 102,
       "name": "magnemite",
-      "abilities": ["magnet-pull", "sturdy", "analytic"],
+      "abilities": [
+        "magnet-pull",
+        "sturdy",
+        "analytic"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3446,11 +3849,13 @@
           "name": "hp"
         }
       ],
-      "types": ["electric", "steel"],
+      "types": [
+        "electric",
+        "steel"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/81.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/81.png"
       }
     },
     {
@@ -3458,7 +3863,11 @@
       "weight": 600,
       "id": 103,
       "name": "magneton",
-      "abilities": ["magnet-pull", "sturdy", "analytic"],
+      "abilities": [
+        "magnet-pull",
+        "sturdy",
+        "analytic"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3486,11 +3895,13 @@
           "name": "hp"
         }
       ],
-      "types": ["electric", "steel"],
+      "types": [
+        "electric",
+        "steel"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/82.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/82.png"
       }
     },
     {
@@ -3498,7 +3909,11 @@
       "weight": 150,
       "id": 105,
       "name": "farfetchd",
-      "abilities": ["keen-eye", "inner-focus", "defiant"],
+      "abilities": [
+        "keen-eye",
+        "inner-focus",
+        "defiant"
+      ],
       "moves": [
         "razor-wind",
         "whirlwind",
@@ -3536,11 +3951,13 @@
           "name": "hp"
         }
       ],
-      "types": ["normal", "flying"],
+      "types": [
+        "normal",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/83.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/83.png"
       }
     },
     {
@@ -3548,7 +3965,11 @@
       "weight": 392,
       "id": 106,
       "name": "doduo",
-      "abilities": ["run-away", "early-bird", "tangled-feet"],
+      "abilities": [
+        "run-away",
+        "early-bird",
+        "tangled-feet"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3576,11 +3997,13 @@
           "name": "hp"
         }
       ],
-      "types": ["normal", "flying"],
+      "types": [
+        "normal",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/84.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/84.png"
       }
     },
     {
@@ -3588,7 +4011,11 @@
       "weight": 852,
       "id": 107,
       "name": "dodrio",
-      "abilities": ["run-away", "early-bird", "tangled-feet"],
+      "abilities": [
+        "run-away",
+        "early-bird",
+        "tangled-feet"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3616,11 +4043,13 @@
           "name": "hp"
         }
       ],
-      "types": ["normal", "flying"],
+      "types": [
+        "normal",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/85.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/85.png"
       }
     },
     {
@@ -3628,7 +4057,11 @@
       "weight": 900,
       "id": 108,
       "name": "seel",
-      "abilities": ["thick-fat", "hydration", "ice-body"],
+      "abilities": [
+        "thick-fat",
+        "hydration",
+        "ice-body"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3656,11 +4089,12 @@
           "name": "attack"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/86.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/86.png"
       }
     },
     {
@@ -3668,7 +4102,11 @@
       "weight": 1200,
       "id": 109,
       "name": "dewgong",
-      "abilities": ["thick-fat", "hydration", "ice-body"],
+      "abilities": [
+        "thick-fat",
+        "hydration",
+        "ice-body"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3696,11 +4134,13 @@
           "name": "attack"
         }
       ],
-      "types": ["water", "ice"],
+      "types": [
+        "water",
+        "ice"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/87.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/87.png"
       }
     },
     {
@@ -3708,7 +4148,11 @@
       "weight": 300,
       "id": 110,
       "name": "grimer",
-      "abilities": ["stench", "sticky-hold", "poison-touch"],
+      "abilities": [
+        "stench",
+        "sticky-hold",
+        "poison-touch"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3736,11 +4180,12 @@
           "name": "speed"
         }
       ],
-      "types": ["poison"],
+      "types": [
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/88.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/88.png"
       }
     },
     {
@@ -3748,7 +4193,11 @@
       "weight": 300,
       "id": 111,
       "name": "muk",
-      "abilities": ["stench", "sticky-hold", "poison-touch"],
+      "abilities": [
+        "stench",
+        "sticky-hold",
+        "poison-touch"
+      ],
       "moves": [
         "pound",
         "disable",
@@ -3787,11 +4236,12 @@
           "name": "speed"
         }
       ],
-      "types": ["poison"],
+      "types": [
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/89.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/89.png"
       }
     },
     {
@@ -3799,7 +4249,11 @@
       "weight": 40,
       "id": 112,
       "name": "shellder",
-      "abilities": ["shell-armor", "skill-link", "overcoat"],
+      "abilities": [
+        "shell-armor",
+        "skill-link",
+        "overcoat"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3827,11 +4281,12 @@
           "name": "special-defense"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/90.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/90.png"
       }
     },
     {
@@ -3839,7 +4294,11 @@
       "weight": 1325,
       "id": 113,
       "name": "cloyster",
-      "abilities": ["shell-armor", "skill-link", "overcoat"],
+      "abilities": [
+        "shell-armor",
+        "skill-link",
+        "overcoat"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3867,11 +4326,13 @@
           "name": "special-defense"
         }
       ],
-      "types": ["water", "ice"],
+      "types": [
+        "water",
+        "ice"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/91.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/91.png"
       }
     },
     {
@@ -3879,7 +4340,9 @@
       "weight": 1,
       "id": 114,
       "name": "gastly",
-      "abilities": ["levitate"],
+      "abilities": [
+        "levitate"
+      ],
       "moves": [],
       "stats": [
         {
@@ -3907,11 +4370,13 @@
           "name": "hp"
         }
       ],
-      "types": ["ghost", "poison"],
+      "types": [
+        "ghost",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/92.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/92.png"
       }
     },
     {
@@ -3919,7 +4384,9 @@
       "weight": 1,
       "id": 115,
       "name": "haunter",
-      "abilities": ["levitate"],
+      "abilities": [
+        "levitate"
+      ],
       "moves": [
         "mega-drain",
         "hypnosis",
@@ -3958,11 +4425,13 @@
           "name": "hp"
         }
       ],
-      "types": ["ghost", "poison"],
+      "types": [
+        "ghost",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/93.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/93.png"
       }
     },
     {
@@ -3970,7 +4439,9 @@
       "weight": 405,
       "id": 116,
       "name": "gengar",
-      "abilities": ["levitate"],
+      "abilities": [
+        "levitate"
+      ],
       "moves": [
         "mega-punch",
         "mega-kick",
@@ -4009,11 +4480,13 @@
           "name": "hp"
         }
       ],
-      "types": ["ghost", "poison"],
+      "types": [
+        "ghost",
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/94.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/94.png"
       }
     },
     {
@@ -4021,7 +4494,11 @@
       "weight": 2100,
       "id": 118,
       "name": "onix",
-      "abilities": ["rock-head", "sturdy", "weak-armor"],
+      "abilities": [
+        "rock-head",
+        "sturdy",
+        "weak-armor"
+      ],
       "moves": [
         "bind",
         "slam",
@@ -4060,11 +4537,13 @@
           "name": "special-attack"
         }
       ],
-      "types": ["rock", "ground"],
+      "types": [
+        "rock",
+        "ground"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/95.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/95.png"
       }
     },
     {
@@ -4072,7 +4551,11 @@
       "weight": 324,
       "id": 121,
       "name": "drowzee",
-      "abilities": ["insomnia", "forewarn", "inner-focus"],
+      "abilities": [
+        "insomnia",
+        "forewarn",
+        "inner-focus"
+      ],
       "moves": [
         "pound",
         "mega-punch",
@@ -4111,11 +4594,12 @@
           "name": "speed"
         }
       ],
-      "types": ["psychic"],
+      "types": [
+        "psychic"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/96.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/96.png"
       }
     },
     {
@@ -4123,7 +4607,11 @@
       "weight": 756,
       "id": 122,
       "name": "hypno",
-      "abilities": ["insomnia", "forewarn", "inner-focus"],
+      "abilities": [
+        "insomnia",
+        "forewarn",
+        "inner-focus"
+      ],
       "moves": [
         "pound",
         "mega-punch",
@@ -4162,11 +4650,12 @@
           "name": "speed"
         }
       ],
-      "types": ["psychic"],
+      "types": [
+        "psychic"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/97.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/97.png"
       }
     },
     {
@@ -4174,7 +4663,11 @@
       "weight": 65,
       "id": 123,
       "name": "krabby",
-      "abilities": ["hyper-cutter", "shell-armor", "sheer-force"],
+      "abilities": [
+        "hyper-cutter",
+        "shell-armor",
+        "sheer-force"
+      ],
       "moves": [],
       "stats": [
         {
@@ -4202,11 +4695,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/98.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/98.png"
       }
     },
     {
@@ -4214,7 +4708,11 @@
       "weight": 600,
       "id": 124,
       "name": "kingler",
-      "abilities": ["hyper-cutter", "shell-armor", "sheer-force"],
+      "abilities": [
+        "hyper-cutter",
+        "shell-armor",
+        "sheer-force"
+      ],
       "moves": [],
       "stats": [
         {
@@ -4242,11 +4740,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/99.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/99.png"
       }
     },
     {
@@ -4254,7 +4753,11 @@
       "weight": 104,
       "id": 125,
       "name": "voltorb",
-      "abilities": ["soundproof", "static", "aftermath"],
+      "abilities": [
+        "soundproof",
+        "static",
+        "aftermath"
+      ],
       "moves": [],
       "stats": [
         {
@@ -4282,11 +4785,12 @@
           "name": "attack"
         }
       ],
-      "types": ["electric"],
+      "types": [
+        "electric"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/100.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/100.png"
       }
     },
     {
@@ -4294,7 +4798,11 @@
       "weight": 666,
       "id": 126,
       "name": "electrode",
-      "abilities": ["soundproof", "static", "aftermath"],
+      "abilities": [
+        "soundproof",
+        "static",
+        "aftermath"
+      ],
       "moves": [],
       "stats": [
         {
@@ -4322,11 +4830,12 @@
           "name": "attack"
         }
       ],
-      "types": ["electric"],
+      "types": [
+        "electric"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/101.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/101.png"
       }
     },
     {
@@ -4334,7 +4843,10 @@
       "weight": 25,
       "id": 127,
       "name": "exeggcute",
-      "abilities": ["chlorophyll", "harvest"],
+      "abilities": [
+        "chlorophyll",
+        "harvest"
+      ],
       "moves": [
         "leech-seed",
         "poison-powder",
@@ -4373,11 +4885,13 @@
           "name": "attack"
         }
       ],
-      "types": ["grass", "psychic"],
+      "types": [
+        "grass",
+        "psychic"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/102.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/102.png"
       }
     },
     {
@@ -4385,7 +4899,10 @@
       "weight": 1200,
       "id": 128,
       "name": "exeggutor",
-      "abilities": ["chlorophyll", "harvest"],
+      "abilities": [
+        "chlorophyll",
+        "harvest"
+      ],
       "moves": [],
       "stats": [
         {
@@ -4413,11 +4930,13 @@
           "name": "speed"
         }
       ],
-      "types": ["grass", "psychic"],
+      "types": [
+        "grass",
+        "psychic"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/103.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/103.png"
       }
     },
     {
@@ -4425,7 +4944,11 @@
       "weight": 65,
       "id": 129,
       "name": "cubone",
-      "abilities": ["rock-head", "lightning-rod", "battle-armor"],
+      "abilities": [
+        "rock-head",
+        "lightning-rod",
+        "battle-armor"
+      ],
       "moves": [
         "mega-punch",
         "mega-kick",
@@ -4464,11 +4987,12 @@
           "name": "speed"
         }
       ],
-      "types": ["ground"],
+      "types": [
+        "ground"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/104.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/104.png"
       }
     },
     {
@@ -4476,7 +5000,11 @@
       "weight": 450,
       "id": 130,
       "name": "marowak",
-      "abilities": ["rock-head", "lightning-rod", "battle-armor"],
+      "abilities": [
+        "rock-head",
+        "lightning-rod",
+        "battle-armor"
+      ],
       "moves": [
         "mega-punch",
         "mega-kick",
@@ -4515,11 +5043,12 @@
           "name": "speed"
         }
       ],
-      "types": ["ground"],
+      "types": [
+        "ground"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/105.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/105.png"
       }
     },
     {
@@ -4527,7 +5056,11 @@
       "weight": 498,
       "id": 132,
       "name": "hitmonlee",
-      "abilities": ["limber", "reckless", "unburden"],
+      "abilities": [
+        "limber",
+        "reckless",
+        "unburden"
+      ],
       "moves": [],
       "stats": [
         {
@@ -4555,11 +5088,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["fighting"],
+      "types": [
+        "fighting"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/106.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/106.png"
       }
     },
     {
@@ -4567,7 +5101,11 @@
       "weight": 502,
       "id": 133,
       "name": "hitmonchan",
-      "abilities": ["keen-eye", "iron-fist", "inner-focus"],
+      "abilities": [
+        "keen-eye",
+        "iron-fist",
+        "inner-focus"
+      ],
       "moves": [],
       "stats": [
         {
@@ -4595,11 +5133,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["fighting"],
+      "types": [
+        "fighting"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/107.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/107.png"
       }
     },
     {
@@ -4607,7 +5146,11 @@
       "weight": 655,
       "id": 135,
       "name": "lickitung",
-      "abilities": ["own-tempo", "oblivious", "cloud-nine"],
+      "abilities": [
+        "own-tempo",
+        "oblivious",
+        "cloud-nine"
+      ],
       "moves": [
         "mega-punch",
         "slam",
@@ -4646,11 +5189,12 @@
           "name": "speed"
         }
       ],
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/108.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/108.png"
       }
     },
     {
@@ -4658,7 +5202,9 @@
       "weight": 10,
       "id": 137,
       "name": "koffing",
-      "abilities": ["levitate"],
+      "abilities": [
+        "levitate"
+      ],
       "moves": [
         "rage",
         "smokescreen",
@@ -4695,11 +5241,12 @@
           "name": "speed"
         }
       ],
-      "types": ["poison"],
+      "types": [
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/109.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/109.png"
       }
     },
     {
@@ -4707,7 +5254,9 @@
       "weight": 95,
       "id": 138,
       "name": "weezing",
-      "abilities": ["levitate"],
+      "abilities": [
+        "levitate"
+      ],
       "moves": [],
       "stats": [
         {
@@ -4735,11 +5284,12 @@
           "name": "speed"
         }
       ],
-      "types": ["poison"],
+      "types": [
+        "poison"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/110.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/110.png"
       }
     },
     {
@@ -4747,7 +5297,11 @@
       "weight": 1150,
       "id": 139,
       "name": "rhyhorn",
-      "abilities": ["lightning-rod", "rock-head", "reckless"],
+      "abilities": [
+        "lightning-rod",
+        "rock-head",
+        "reckless"
+      ],
       "moves": [
         "stomp",
         "horn-attack",
@@ -4784,11 +5338,13 @@
           "name": "speed"
         }
       ],
-      "types": ["ground", "rock"],
+      "types": [
+        "ground",
+        "rock"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/111.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/111.png"
       }
     },
     {
@@ -4796,7 +5352,11 @@
       "weight": 1200,
       "id": 140,
       "name": "rhydon",
-      "abilities": ["lightning-rod", "rock-head", "reckless"],
+      "abilities": [
+        "lightning-rod",
+        "rock-head",
+        "reckless"
+      ],
       "moves": [
         "mega-punch",
         "pay-day",
@@ -4835,11 +5395,13 @@
           "name": "speed"
         }
       ],
-      "types": ["ground", "rock"],
+      "types": [
+        "ground",
+        "rock"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/112.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/112.png"
       }
     },
     {
@@ -4847,7 +5409,11 @@
       "weight": 346,
       "id": 143,
       "name": "chansey",
-      "abilities": ["natural-cure", "serene-grace", "healer"],
+      "abilities": [
+        "natural-cure",
+        "serene-grace",
+        "healer"
+      ],
       "moves": [
         "pound",
         "double-slap",
@@ -4886,11 +5452,12 @@
           "name": "attack"
         }
       ],
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/113.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/113.png"
       }
     },
     {
@@ -4898,7 +5465,11 @@
       "weight": 350,
       "id": 145,
       "name": "tangela",
-      "abilities": ["chlorophyll", "leaf-guard", "regenerator"],
+      "abilities": [
+        "chlorophyll",
+        "leaf-guard",
+        "regenerator"
+      ],
       "moves": [
         "bind",
         "slam",
@@ -4937,11 +5508,12 @@
           "name": "special-defense"
         }
       ],
-      "types": ["grass"],
+      "types": [
+        "grass"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/114.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/114.png"
       }
     },
     {
@@ -4949,7 +5521,11 @@
       "weight": 800,
       "id": 147,
       "name": "kangaskhan",
-      "abilities": ["early-bird", "scrappy", "inner-focus"],
+      "abilities": [
+        "early-bird",
+        "scrappy",
+        "inner-focus"
+      ],
       "moves": [
         "comet-punch",
         "mega-punch",
@@ -4988,11 +5564,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/115.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/115.png"
       }
     },
     {
@@ -5000,7 +5577,11 @@
       "weight": 80,
       "id": 149,
       "name": "horsea",
-      "abilities": ["swift-swim", "sniper", "damp"],
+      "abilities": [
+        "swift-swim",
+        "sniper",
+        "damp"
+      ],
       "moves": [],
       "stats": [
         {
@@ -5028,11 +5609,12 @@
           "name": "special-defense"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/116.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/116.png"
       }
     },
     {
@@ -5040,7 +5622,11 @@
       "weight": 250,
       "id": 150,
       "name": "seadra",
-      "abilities": ["poison-point", "sniper", "damp"],
+      "abilities": [
+        "poison-point",
+        "sniper",
+        "damp"
+      ],
       "moves": [],
       "stats": [
         {
@@ -5068,11 +5654,12 @@
           "name": "special-defense"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/117.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/117.png"
       }
     },
     {
@@ -5080,7 +5667,11 @@
       "weight": 150,
       "id": 152,
       "name": "goldeen",
-      "abilities": ["swift-swim", "water-veil", "lightning-rod"],
+      "abilities": [
+        "swift-swim",
+        "water-veil",
+        "lightning-rod"
+      ],
       "moves": [],
       "stats": [
         {
@@ -5108,11 +5699,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/118.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/118.png"
       }
     },
     {
@@ -5120,7 +5712,11 @@
       "weight": 390,
       "id": 153,
       "name": "seaking",
-      "abilities": ["swift-swim", "water-veil", "lightning-rod"],
+      "abilities": [
+        "swift-swim",
+        "water-veil",
+        "lightning-rod"
+      ],
       "moves": [],
       "stats": [
         {
@@ -5148,11 +5744,12 @@
           "name": "defense"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/119.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/119.png"
       }
     },
     {
@@ -5160,7 +5757,11 @@
       "weight": 345,
       "id": 154,
       "name": "staryu",
-      "abilities": ["illuminate", "natural-cure", "analytic"],
+      "abilities": [
+        "illuminate",
+        "natural-cure",
+        "analytic"
+      ],
       "moves": [],
       "stats": [
         {
@@ -5188,11 +5789,12 @@
           "name": "hp"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/120.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/120.png"
       }
     },
     {
@@ -5200,7 +5802,11 @@
       "weight": 800,
       "id": 155,
       "name": "starmie",
-      "abilities": ["illuminate", "natural-cure", "analytic"],
+      "abilities": [
+        "illuminate",
+        "natural-cure",
+        "analytic"
+      ],
       "moves": [],
       "stats": [
         {
@@ -5228,11 +5834,13 @@
           "name": "hp"
         }
       ],
-      "types": ["water", "psychic"],
+      "types": [
+        "water",
+        "psychic"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/121.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/121.png"
       }
     },
     {
@@ -5240,7 +5848,11 @@
       "weight": 545,
       "id": 157,
       "name": "mr-mime",
-      "abilities": ["soundproof", "filter", "technician"],
+      "abilities": [
+        "soundproof",
+        "filter",
+        "technician"
+      ],
       "moves": [
         "double-slap",
         "mega-punch",
@@ -5279,11 +5891,13 @@
           "name": "hp"
         }
       ],
-      "types": ["psychic", "fairy"],
+      "types": [
+        "psychic",
+        "fairy"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/122.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/122.png"
       }
     },
     {
@@ -5291,7 +5905,11 @@
       "weight": 560,
       "id": 158,
       "name": "scyther",
-      "abilities": ["swarm", "technician", "steadfast"],
+      "abilities": [
+        "swarm",
+        "technician",
+        "steadfast"
+      ],
       "moves": [],
       "stats": [
         {
@@ -5319,11 +5937,13 @@
           "name": "special-attack"
         }
       ],
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/123.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/123.png"
       }
     },
     {
@@ -5331,7 +5951,11 @@
       "weight": 406,
       "id": 162,
       "name": "jynx",
-      "abilities": ["oblivious", "forewarn", "dry-skin"],
+      "abilities": [
+        "oblivious",
+        "forewarn",
+        "dry-skin"
+      ],
       "moves": [
         "pound",
         "double-slap",
@@ -5370,11 +5994,13 @@
           "name": "defense"
         }
       ],
-      "types": ["ice", "psychic"],
+      "types": [
+        "ice",
+        "psychic"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/124.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/124.png"
       }
     },
     {
@@ -5382,7 +6008,10 @@
       "weight": 300,
       "id": 164,
       "name": "electabuzz",
-      "abilities": ["static", "vital-spirit"],
+      "abilities": [
+        "static",
+        "vital-spirit"
+      ],
       "moves": [],
       "stats": [
         {
@@ -5410,11 +6039,12 @@
           "name": "defense"
         }
       ],
-      "types": ["electric"],
+      "types": [
+        "electric"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/125.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/125.png"
       }
     },
     {
@@ -5422,7 +6052,10 @@
       "weight": 445,
       "id": 167,
       "name": "magmar",
-      "abilities": ["flame-body", "vital-spirit"],
+      "abilities": [
+        "flame-body",
+        "vital-spirit"
+      ],
       "moves": [
         "mega-punch",
         "fire-punch",
@@ -5461,11 +6094,12 @@
           "name": "defense"
         }
       ],
-      "types": ["fire"],
+      "types": [
+        "fire"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/126.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/126.png"
       }
     },
     {
@@ -5473,7 +6107,11 @@
       "weight": 550,
       "id": 169,
       "name": "pinsir",
-      "abilities": ["hyper-cutter", "mold-breaker", "moxie"],
+      "abilities": [
+        "hyper-cutter",
+        "mold-breaker",
+        "moxie"
+      ],
       "moves": [
         "vice-grip",
         "guillotine",
@@ -5511,11 +6149,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["bug"],
+      "types": [
+        "bug"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/127.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/127.png"
       }
     },
     {
@@ -5523,7 +6162,11 @@
       "weight": 884,
       "id": 171,
       "name": "tauros",
-      "abilities": ["intimidate", "anger-point", "sheer-force"],
+      "abilities": [
+        "intimidate",
+        "anger-point",
+        "sheer-force"
+      ],
       "moves": [],
       "stats": [
         {
@@ -5551,11 +6194,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/128.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/128.png"
       }
     },
     {
@@ -5563,7 +6207,10 @@
       "weight": 100,
       "id": 172,
       "name": "magikarp",
-      "abilities": ["swift-swim", "rattled"],
+      "abilities": [
+        "swift-swim",
+        "rattled"
+      ],
       "moves": [],
       "stats": [
         {
@@ -5591,11 +6238,12 @@
           "name": "attack"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/129.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/129.png"
       }
     },
     {
@@ -5603,8 +6251,18 @@
       "weight": 2350,
       "id": 173,
       "name": "gyarados",
-      "abilities": ["intimidate", "moxie"],
-      "moves": ["hydro-pump", "bubble-beam", "dragon-rage", "rage", "bide", "skull-bash"],
+      "abilities": [
+        "intimidate",
+        "moxie"
+      ],
+      "moves": [
+        "hydro-pump",
+        "bubble-beam",
+        "dragon-rage",
+        "rage",
+        "bide",
+        "skull-bash"
+      ],
       "stats": [
         {
           "value": 125,
@@ -5631,11 +6289,13 @@
           "name": "special-attack"
         }
       ],
-      "types": ["water", "flying"],
+      "types": [
+        "water",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/130.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/130.png"
       }
     },
     {
@@ -5643,7 +6303,11 @@
       "weight": 2200,
       "id": 175,
       "name": "lapras",
-      "abilities": ["water-absorb", "shell-armor", "hydration"],
+      "abilities": [
+        "water-absorb",
+        "shell-armor",
+        "hydration"
+      ],
       "moves": [
         "horn-drill",
         "sing",
@@ -5682,11 +6346,13 @@
           "name": "speed"
         }
       ],
-      "types": ["water", "ice"],
+      "types": [
+        "water",
+        "ice"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/131.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/131.png"
       }
     },
     {
@@ -5694,7 +6360,10 @@
       "weight": 40,
       "id": 176,
       "name": "ditto",
-      "abilities": ["limber", "imposter"],
+      "abilities": [
+        "limber",
+        "imposter"
+      ],
       "moves": [],
       "stats": [
         {
@@ -5722,11 +6391,12 @@
           "name": "hp"
         }
       ],
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/132.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/132.png"
       }
     },
     {
@@ -5734,7 +6404,11 @@
       "weight": 65,
       "id": 177,
       "name": "eevee",
-      "abilities": ["run-away", "adaptability", "anticipation"],
+      "abilities": [
+        "run-away",
+        "adaptability",
+        "anticipation"
+      ],
       "moves": [],
       "stats": [
         {
@@ -5762,11 +6436,12 @@
           "name": "special-attack"
         }
       ],
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/133.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/133.png"
       }
     },
     {
@@ -5774,7 +6449,10 @@
       "weight": 290,
       "id": 178,
       "name": "vaporeon",
-      "abilities": ["water-absorb", "hydration"],
+      "abilities": [
+        "water-absorb",
+        "hydration"
+      ],
       "moves": [],
       "stats": [
         {
@@ -5802,11 +6480,12 @@
           "name": "defense"
         }
       ],
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/134.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/134.png"
       }
     },
     {
@@ -5814,7 +6493,10 @@
       "weight": 245,
       "id": 179,
       "name": "jolteon",
-      "abilities": ["volt-absorb", "quick-feet"],
+      "abilities": [
+        "volt-absorb",
+        "quick-feet"
+      ],
       "moves": [],
       "stats": [
         {
@@ -5842,11 +6524,12 @@
           "name": "defense"
         }
       ],
-      "types": ["electric"],
+      "types": [
+        "electric"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/135.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/135.png"
       }
     },
     {
@@ -5854,8 +6537,17 @@
       "weight": 250,
       "id": 180,
       "name": "flareon",
-      "abilities": ["flash-fire", "guts"],
-      "moves": ["ember", "fire-spin", "rage", "bide", "skull-bash"],
+      "abilities": [
+        "flash-fire",
+        "guts"
+      ],
+      "moves": [
+        "ember",
+        "fire-spin",
+        "rage",
+        "bide",
+        "skull-bash"
+      ],
       "stats": [
         {
           "value": 130,
@@ -5882,11 +6574,12 @@
           "name": "defense"
         }
       ],
-      "types": ["fire"],
+      "types": [
+        "fire"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/136.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/136.png"
       }
     },
     {
@@ -5894,7 +6587,11 @@
       "weight": 365,
       "id": 186,
       "name": "porygon",
-      "abilities": ["trace", "download", "analytic"],
+      "abilities": [
+        "trace",
+        "download",
+        "analytic"
+      ],
       "moves": [],
       "stats": [
         {
@@ -5922,11 +6619,12 @@
           "name": "speed"
         }
       ],
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/137.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/137.png"
       }
     },
     {
@@ -5934,7 +6632,11 @@
       "weight": 75,
       "id": 189,
       "name": "omanyte",
-      "abilities": ["swift-swim", "shell-armor", "weak-armor"],
+      "abilities": [
+        "swift-swim",
+        "shell-armor",
+        "weak-armor"
+      ],
       "moves": [
         "horn-attack",
         "hydro-pump",
@@ -5970,11 +6672,13 @@
           "name": "hp"
         }
       ],
-      "types": ["rock", "water"],
+      "types": [
+        "rock",
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/138.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/138.png"
       }
     },
     {
@@ -5982,7 +6686,11 @@
       "weight": 350,
       "id": 190,
       "name": "omastar",
-      "abilities": ["swift-swim", "shell-armor", "weak-armor"],
+      "abilities": [
+        "swift-swim",
+        "shell-armor",
+        "weak-armor"
+      ],
       "moves": [],
       "stats": [
         {
@@ -6010,11 +6718,13 @@
           "name": "speed"
         }
       ],
-      "types": ["rock", "water"],
+      "types": [
+        "rock",
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/139.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/139.png"
       }
     },
     {
@@ -6022,7 +6732,11 @@
       "weight": 115,
       "id": 191,
       "name": "kabuto",
-      "abilities": ["swift-swim", "battle-armor", "weak-armor"],
+      "abilities": [
+        "swift-swim",
+        "battle-armor",
+        "weak-armor"
+      ],
       "moves": [],
       "stats": [
         {
@@ -6050,11 +6764,13 @@
           "name": "hp"
         }
       ],
-      "types": ["rock", "water"],
+      "types": [
+        "rock",
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/140.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/140.png"
       }
     },
     {
@@ -6062,7 +6778,11 @@
       "weight": 405,
       "id": 192,
       "name": "kabutops",
-      "abilities": ["swift-swim", "battle-armor", "weak-armor"],
+      "abilities": [
+        "swift-swim",
+        "battle-armor",
+        "weak-armor"
+      ],
       "moves": [],
       "stats": [
         {
@@ -6090,11 +6810,13 @@
           "name": "hp"
         }
       ],
-      "types": ["rock", "water"],
+      "types": [
+        "rock",
+        "water"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/141.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/141.png"
       }
     },
     {
@@ -6102,7 +6824,11 @@
       "weight": 590,
       "id": 193,
       "name": "aerodactyl",
-      "abilities": ["rock-head", "pressure", "unnerve"],
+      "abilities": [
+        "rock-head",
+        "pressure",
+        "unnerve"
+      ],
       "moves": [
         "razor-wind",
         "wing-attack",
@@ -6140,11 +6866,13 @@
           "name": "special-attack"
         }
       ],
-      "types": ["rock", "flying"],
+      "types": [
+        "rock",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/142.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/142.png"
       }
     },
     {
@@ -6152,7 +6880,11 @@
       "weight": 4600,
       "id": 196,
       "name": "snorlax",
-      "abilities": ["immunity", "thick-fat", "gluttony"],
+      "abilities": [
+        "immunity",
+        "thick-fat",
+        "gluttony"
+      ],
       "moves": [
         "mega-punch",
         "pay-day",
@@ -6191,11 +6923,12 @@
           "name": "speed"
         }
       ],
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/143.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/143.png"
       }
     },
     {
@@ -6203,7 +6936,10 @@
       "weight": 554,
       "id": 197,
       "name": "articuno",
-      "abilities": ["pressure", "snow-cloak"],
+      "abilities": [
+        "pressure",
+        "snow-cloak"
+      ],
       "moves": [],
       "stats": [
         {
@@ -6231,11 +6967,13 @@
           "name": "attack"
         }
       ],
-      "types": ["ice", "flying"],
+      "types": [
+        "ice",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/144.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/144.png"
       }
     },
     {
@@ -6243,7 +6981,10 @@
       "weight": 526,
       "id": 198,
       "name": "zapdos",
-      "abilities": ["pressure", "static"],
+      "abilities": [
+        "pressure",
+        "static"
+      ],
       "moves": [],
       "stats": [
         {
@@ -6271,11 +7012,13 @@
           "name": "defense"
         }
       ],
-      "types": ["electric", "flying"],
+      "types": [
+        "electric",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/145.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/145.png"
       }
     },
     {
@@ -6283,7 +7026,10 @@
       "weight": 600,
       "id": 199,
       "name": "moltres",
-      "abilities": ["pressure", "flame-body"],
+      "abilities": [
+        "pressure",
+        "flame-body"
+      ],
       "moves": [],
       "stats": [
         {
@@ -6311,11 +7057,13 @@
           "name": "special-defense"
         }
       ],
-      "types": ["fire", "flying"],
+      "types": [
+        "fire",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/146.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/146.png"
       }
     },
     {
@@ -6323,7 +7071,10 @@
       "weight": 33,
       "id": 200,
       "name": "dratini",
-      "abilities": ["shed-skin", "marvel-scale"],
+      "abilities": [
+        "shed-skin",
+        "marvel-scale"
+      ],
       "moves": [],
       "stats": [
         {
@@ -6351,11 +7102,12 @@
           "name": "hp"
         }
       ],
-      "types": ["dragon"],
+      "types": [
+        "dragon"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/147.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/147.png"
       }
     },
     {
@@ -6363,7 +7115,10 @@
       "weight": 165,
       "id": 201,
       "name": "dragonair",
-      "abilities": ["shed-skin", "marvel-scale"],
+      "abilities": [
+        "shed-skin",
+        "marvel-scale"
+      ],
       "moves": [
         "slam",
         "horn-drill",
@@ -6400,11 +7155,12 @@
           "name": "hp"
         }
       ],
-      "types": ["dragon"],
+      "types": [
+        "dragon"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/148.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/148.png"
       }
     },
     {
@@ -6412,7 +7168,10 @@
       "weight": 2100,
       "id": 202,
       "name": "dragonite",
-      "abilities": ["inner-focus", "multiscale"],
+      "abilities": [
+        "inner-focus",
+        "multiscale"
+      ],
       "moves": [
         "razor-wind",
         "slam",
@@ -6450,11 +7209,13 @@
           "name": "speed"
         }
       ],
-      "types": ["dragon", "flying"],
+      "types": [
+        "dragon",
+        "flying"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/149.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/149.png"
       }
     },
     {
@@ -6462,7 +7223,10 @@
       "weight": 1220,
       "id": 203,
       "name": "mewtwo",
-      "abilities": ["pressure", "unnerve"],
+      "abilities": [
+        "pressure",
+        "unnerve"
+      ],
       "moves": [
         "mega-punch",
         "pay-day",
@@ -6501,11 +7265,12 @@
           "name": "defense"
         }
       ],
-      "types": ["psychic"],
+      "types": [
+        "psychic"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
     },
     {
@@ -6513,7 +7278,9 @@
       "weight": 40,
       "id": 206,
       "name": "mew",
-      "abilities": ["synchronize"],
+      "abilities": [
+        "synchronize"
+      ],
       "moves": [
         "pound",
         "mega-punch",
@@ -6552,11 +7319,207 @@
           "name": "hp"
         }
       ],
-      "types": ["psychic"],
+      "types": [
+        "psychic"
+      ],
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
-        "back":
-          "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/151.png"
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/151.png"
+      }
+    },
+    {
+      "height": null,
+      "weight": null,
+      "id": 207,
+      "name": "Doggy Dog",
+      "abilities": [],
+      "moves": [],
+      "stats": [
+        {
+          "value": null,
+          "name": "special-defense"
+        },
+        {
+          "value": null,
+          "name": "special-attack"
+        },
+        {
+          "value": null,
+          "name": "defense"
+        },
+        {
+          "value": null,
+          "name": "attack"
+        },
+        {
+          "value": null,
+          "name": "speed"
+        },
+        {
+          "value": "100",
+          "name": "hp"
+        }
+      ],
+      "types": [],
+      "sprites": {
+        "front": "data:image/jpeg;base64,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",
+        "back": "data:image/png;base64,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"
+      }
+    },
+    {
+      "height": null,
+      "weight": null,
+      "id": 208,
+      "name": "Grilled Cheese",
+      "abilities": [],
+      "moves": [],
+      "stats": [
+        {
+          "value": null,
+          "name": "special-defense"
+        },
+        {
+          "value": null,
+          "name": "special-attack"
+        },
+        {
+          "value": null,
+          "name": "defense"
+        },
+        {
+          "value": null,
+          "name": "attack"
+        },
+        {
+          "value": null,
+          "name": "speed"
+        },
+        {
+          "value": "100",
+          "name": "hp"
+        }
+      ],
+      "types": [],
+      "sprites": {
+        "front": "data:image/png;base64,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",
+        "back": "data:image/png;base64,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"
+      }
+    },
+    {
+      "height": null,
+      "weight": null,
+      "id": 209,
+      "name": "Natalie",
+      "abilities": [],
+      "moves": [],
+      "stats": [
+        {
+          "value": null,
+          "name": "special-defense"
+        },
+        {
+          "value": null,
+          "name": "special-attack"
+        },
+        {
+          "value": null,
+          "name": "defense"
+        },
+        {
+          "value": null,
+          "name": "attack"
+        },
+        {
+          "value": null,
+          "name": "speed"
+        },
+        {
+          "value": "500",
+          "name": "hp"
+        }
+      ],
+      "types": [],
+      "sprites": {
+        "front": "data:image/jpeg;base64,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",
+        "back": "data:image/jpeg;base64,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"
+      }
+    },
+    {
+      "height": null,
+      "weight": null,
+      "id": 210,
+      "name": "Tim",
+      "abilities": [],
+      "moves": [],
+      "stats": [
+        {
+          "value": null,
+          "name": "special-defense"
+        },
+        {
+          "value": null,
+          "name": "special-attack"
+        },
+        {
+          "value": null,
+          "name": "defense"
+        },
+        {
+          "value": null,
+          "name": "attack"
+        },
+        {
+          "value": null,
+          "name": "speed"
+        },
+        {
+          "value": "200",
+          "name": "hp"
+        }
+      ],
+      "types": [],
+      "sprites": {
+        "front": "data:image/jpeg;base64,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",
+        "back": "data:image/jpeg;base64,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"
+      }
+    },
+    {
+      "height": null,
+      "weight": null,
+      "id": 211,
+      "name": "Cheese Poke",
+      "abilities": [],
+      "moves": [],
+      "stats": [
+        {
+          "value": null,
+          "name": "special-defense"
+        },
+        {
+          "value": null,
+          "name": "special-attack"
+        },
+        {
+          "value": null,
+          "name": "defense"
+        },
+        {
+          "value": null,
+          "name": "attack"
+        },
+        {
+          "value": null,
+          "name": "speed"
+        },
+        {
+          "value": "100",
+          "name": "hp"
+        }
+      ],
+      "types": [],
+      "sprites": {
+        "front": "data:image/jpeg;base64,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",
+        "back": "data:image/jpeg;base64,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"
       }
     }
   ]
